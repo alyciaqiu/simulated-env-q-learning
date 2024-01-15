@@ -9,3 +9,7 @@ This is a code repository for my paper: _Reinforcement Learning for Optimal Exec
  unknown environment. Comparing to the two naive strategies: (1) executing with a
  constant trading speed, and (2) executing everything at time 0, the Q-learning agent
  show betters performance especially when encounters a more complicated market.
+
+## Getting Start
+- To learn more about the paper, please navigate to `Q-Learning for Optimal Execution in a Simulated Environment.pdf`.
+- For code implementation, please follow the steps in `q-learning-in-simulated-env.ipynb`.
